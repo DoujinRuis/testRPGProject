@@ -3,6 +3,8 @@
  * @plugindesc 顔向きでキャラを左右に動かすプラグイン（修正版） by サラ
  */
 
+console.log("test");
+
 (() => {
   const scripts = [
     'https://cdn.jsdelivr.net/npm/@mediapipe/face_mesh/face_mesh.js',
